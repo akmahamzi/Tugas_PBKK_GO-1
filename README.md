@@ -4,7 +4,7 @@
 Buatlah kode dengan bahasa pemrograman Golang. Program ini menerima input berupa angka. Jika memberikan input angka 42, maka program akan memberikan output Hello Universe!. Jika angka selain 42, program akan memberikan output angka yang diinputkan.
 
 ### Contoh Input Output
-![alt text](Screenshot 2024-11-04 194522.png)
+![alt text]([Screenshot 2024-11-04 194522.png](https://github.com/akmahamzi/Tugas_PBKK_GO-1/blob/main/Screenshot%202024-11-04%20195505.png))
 
 ## Soal 2
 ### Reverse Words
